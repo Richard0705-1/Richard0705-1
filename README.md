@@ -1,18 +1,18 @@
 ## Hi I´am Ricardo Muñoz vega 👋
-Bienvenido/a_ a mi perfil de GitHub. Aquí encontrarás proyectos, prácticas y avances que forman parte de mi formación y crecimiento como desarrollador.
+📌📌 Bienvenido/a_ a mi perfil de GitHub. Aquí encontrarás proyectos, prácticas y avances que forman parte de mi formación y crecimiento como desarrollador.💻
 ## Estas son algunas tecnologías que estoy aprendiendo:
 Lenguajes: C, C++, Python, JavaScript
 
 *Áreas de interés* : Desarrollo web, algoritmos, bases de datos, aprendizaje continuo
 
 ## Metas Académicas y Profesionales
-Desarrollar proyectos que mejoren mis habilidades técnicas
+Desarrollar proyectos que mejoren mis habilidades técnicas ⚙️
 
-Dominar estructuras de datos y programación orientada a objetos
+📎 Dominar estructuras de datos y programación orientada a objetos 📍
 
-Prepararme profesionalmente para integrarme a la industria tecnológica
+📎 Prepararme profesionalmente para integrarme a la industria tecnológica
 
-Poder crear un software 
+📎 Poder crear un software 
 
 ## Cómo Contactarme 
 
