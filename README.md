@@ -8,7 +8,7 @@ Lenguajes: C, C++, Python, JavaScript
 ## Metas Académicas y Profesionales
 Desarrollar proyectos que mejoren mis habilidades técnicas ⚙️
 
-📎 Dominar estructuras de datos y programación orientada a objetos 📍
+📎 Dominar estructuras de datos y programación orientada a objetos 
 
 📎 Prepararme profesionalmente para integrarme a la industria tecnológica
 
